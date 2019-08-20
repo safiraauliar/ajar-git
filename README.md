@@ -1,5 +1,6 @@
 AJAR GIT lhur
 ------------
-1. [wdwiramadhan](github.com/wdwiramadhan) 
+1. [haqqer](github.com/haqqer) 
 
-By @wdwiramadhan
+
+By @haqqer
