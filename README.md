@@ -1,6 +1,7 @@
 AJAR GIT lhur
 ------------
 
-1. [jaar] (github.io/Juliantooo)
+1. [haqqer](github.com/haqqer) 
+
 
 By @haqqer
