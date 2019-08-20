@@ -1,6 +1,7 @@
 AJAR GIT lhur
-------------
-1. [haqqer](github.com/haqqer) 
+--------
 
+1. [husin14](github.com/husin14)
+2.
 
 By @haqqer
